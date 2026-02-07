@@ -40,7 +40,7 @@ Regional Focus: Excluded the United Kingdom from specific visuals to better anal
 
 
 Instructions: Use a Line Chart for trends , a Side-by-Side Bar Chart for country comparisons , a Column Chart for customer rankings , and a Map Chart for global sales.
-+3
+
 
 🔍 Key Insights & Recommendations
 Insights
@@ -61,4 +61,4 @@ Market Diversification: Since the UK is the primary market, focus the next marke
 VIP Retention: Implement a loyalty program specifically for the top 10 identified CustomerIDs to ensure long-term revenue stability.
 
 
-Inventory Planning: Use the monthly revenue granularity to optimize supply chain operations for the high-performing months identified in the 2011 dat
+Inventory Planning: Use the monthly revenue granularity to optimize supply chain operations for the high-performing months identified in the 2011 data.
